@@ -52,3 +52,12 @@ urllib3==2.2.2
 uvicorn==0.34.0
 virtualenv==20.25.0
 Werkzeug==3.0.1
+
+
+fastapi
+uvicorn
+openai
+python-dotenv
+asyncio
+httpx
+gunicorn
